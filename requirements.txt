@@ -1,0 +1,9 @@
+1. Login and register
+2. Users can add songs
+3. Users can see all the songs in the app
+4. Users can see the songs they added
+5. Users can create playlist, make them public or private
+6. Users can become friends.
+7. Create a queue of songs. (one time only)
+7. A songs player, that works like the one in Spotify, if there is playlist, queue playing, the next song is final. But if there are no playlists or queues, play next random song like Spotify.
+
